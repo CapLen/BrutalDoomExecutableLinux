@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Brutal Doom
+Comment=Die in hell
+Exec=/home/$USERNAME/BRUTALDOOM/brutaldoom.sh
+Icon=/home/$USERNAME/BRUTALDOOM/logo.png
+Path=/home/$USERNAME/BRUTALDOOM/
+Terminal=false
+Type=Application
+Categories=Application;Game;
+Name[fr]=BrutalDoom
