@@ -1,5 +1,5 @@
-BRUTAL DOOM EXEC FOR LINUX
-==========================
+BRUTAL DOOM LAUNCHER FOR LINUX
+==============================
 
 Todo
 ----
